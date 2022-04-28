@@ -35,7 +35,9 @@
   .rating{
       background-color: green;
   }
-  
+/*  .addbtn{
+   color:pink !important;
+ } */
   @media (max-width:772px){
       .iteamsdetails{
           flex-direction: column;
